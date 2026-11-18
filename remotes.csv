@@ -1,0 +1,12 @@
+# Format of file like CSV, but with comments
+# remote name, remote link, optional description?
+alphaonex86,git@github.com:alphaonex86/openwrt.git,Project of reverse engineering with LLMs
+openwrt_fork,git@github.com:ProMix0/owrt_fork.git,GitHub fork for PRs
+jameywine,git@github.com:jameywine/openwrt.git,For testing branches and other PRs
+zectaiga,git@github.com:zectaiga/openwrt.git,For testing branches
+repo,git@github.com:ProMix0/openwrt.git,My main repository
+undisputed-seraphim,git@github.com:undisputed-seraphim/openwrt.git,RTL8198C
+openwrt,git@github.com:openwrt/openwrt.git,OpenWRT (for rebases)
+ggbruno,git@github.com:ggbruno/openwrt.git,Something Lexra-related (and my RR-10 btw)
+rtd1619,git@github.com:bywayboy/rtd1619.git,Realtek RTD SoCs related
+another_rtd,git@github.com:phinexhung/openwrt.git,Another RTD SoCs

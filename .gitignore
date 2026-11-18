@@ -1,0 +1,6 @@
+# Bare git repository
+openwrt/
+
+# Worktrees
+worktrees/*/
+
